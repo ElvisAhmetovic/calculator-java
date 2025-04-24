@@ -5,8 +5,11 @@
 Pomoću alata `cloc` sam izračunao da projekat ima:
 
 Ukupno linija koda: 148
+
 Od toga prazne linije: 61
+
 Komentari: 5
+
 Prava koda: 148 linija
 
 ## Pregled fajlova
